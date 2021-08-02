@@ -9,8 +9,8 @@
 ##
  <div>
   <a href="https://github.com/Hugueninfer">
-  <img width="52%" height="200px" align="right" src="https://github-readme-stats.vercel.app/api?username=Hugueninfer&theme=algolia&hide_border=true&cache_seconds=2000">
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugueninfer&layout=compact&theme=algolia&hide_border=true&cache_seconds=2000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugueninfer&theme=algolia&hide_border=true&cache_seconds=2000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugueninfer&layout=compact&theme=algolia&hide_border=true&cache_seconds=2000" />
 </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="huguenin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
