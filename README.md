@@ -3,8 +3,8 @@
 ##
 - 🔭 Estudante de Sistema de Informação
 - 🙍‍♂️ Tecnico em informatica
-- ⚡ Dev Full Stack 
-- 💡 Estudando Laravel e Flutter 
+- ⚡ Desenvolvedor 
+- 💡 Estudando Wordpress,Flutter 
 
 ##
  <div>
