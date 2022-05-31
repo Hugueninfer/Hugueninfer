@@ -4,7 +4,7 @@
 - 🔭 Estudante de Sistema de Informação
 - 🙍‍♂️ Tecnico em informatica
 - ⚡ Desenvolvedor 
-- 💡 Estudando Wordpress,Flutter 
+- 💡 Estudando Javascript, ReactJS
 
 ##
  <div>
