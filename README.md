@@ -3,8 +3,8 @@
 ##
 - 🔭 Estudante de Sistema de Informação
 - 🙍‍♂️ Tecnico em informatica
-- ⚡ Desenvolvedor 
-- 💡 Estudando Vue.js
+- ⚡ Desenvolvedor Web
+- 💡 Estudando Vue.js e React
 
 ##
  <div>
