@@ -4,7 +4,6 @@
 - 🔭 Estudante de Sistema de Informação
 - 🙍‍♂️ Tecnico em informatica
 - ⚡ Desenvolvedor 
-- 💡 Estudando Vue.js
 
 ##
  <div>
