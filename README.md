@@ -9,7 +9,7 @@
 ##
  <div>
   <a href="https://github.com/Hugueninfer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugueninfer&theme=midnight-purple&hide_border=true&cache_seconds=2000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugueninfer&theme=material-palenight&hide_border=true&cache_seconds=2000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugueninfer&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=2000" />
 </div>
   <div style="display: inline_block" align="center"><br>
