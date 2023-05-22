@@ -2,8 +2,8 @@
 ##
  <div>
   <a href="https://github.com/Hugueninfer">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hugueninfer&theme=dark&hide_border=true&cache_seconds=2000">
-/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api?username=Hugueninfer&theme=dark&hide_border=true&cache_seconds=2000">
+
 </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="huguenin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
