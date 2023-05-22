@@ -1,12 +1,6 @@
 ### Oi! Eu sou Pedro Huguenin 👋
 
 ##
-- 🔭 Estudante de Sistema de Informação
-- 🙍‍♂️ Tecnico em informatica
-- ⚡ Desenvolvedor 
-- 😎 Portifolio: https://hugueninfer.github.io
- 
-##
  <div>
   <a href="https://github.com/Hugueninfer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugueninfer&theme=dark&hide_border=true&cache_seconds=2000">
@@ -27,8 +21,7 @@
 
 
 
-
-  <img height="160em" align="right" alt="huguenin" src="https://i.gifer.com/9BWl.gif">
+  <img height="160em" align="right" alt="huguenin" src="[https://i.gifer.com/9BWl.gif](https://gifer.com/embed/1Afd)">
 </div>
   
   ##
