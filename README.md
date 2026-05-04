@@ -83,5 +83,5 @@ I'm Pedro Huguenin, a Backend Developer from Brazil 🇧🇷<br><br>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedro-huguenin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <img src="https://streak-stats.demolab.com?user=Hugueninfer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
